@@ -5,7 +5,7 @@ namespace Tyuiu.SavchenkoEI.Sprint1.Task5.V3.Lib
     {
         public int Calculate(int k)
         {
-            return int((k%1000)/100);
+            return (k%1000)/100;
         }
     }
 }
