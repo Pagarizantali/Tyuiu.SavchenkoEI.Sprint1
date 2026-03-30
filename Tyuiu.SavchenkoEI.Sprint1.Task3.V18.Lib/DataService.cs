@@ -20,7 +20,7 @@ namespace Tyuiu.SavchenkoEI.Sprint1.Task3.V18.Lib
             int count = 0;
             for (int i = 0; i < k; i++)
                 count += n;
-            return n;
+            return count;
         }
     }
 }
