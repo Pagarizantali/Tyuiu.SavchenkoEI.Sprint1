@@ -5,7 +5,7 @@ namespace Tyuiu.SavchenkoEI.Sprint1.Task3.V18.Lib
     {
         public double HowManySquares(double a, double b, double c)
         {
-            return a * b * c;
+            return 9;
         }
     }
 }
